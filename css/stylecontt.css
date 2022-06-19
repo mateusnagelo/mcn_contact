@@ -51,3 +51,10 @@
 .hero-body img {
     margin-right: 50px;
 }
+
+.cat {
+    margin-bottom: 50px;
+    height: 400px;
+    width: 500px;
+    object-fit: contain;
+}
