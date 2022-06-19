@@ -53,8 +53,11 @@
 }
 
 .cat {
-    margin-bottom: 50px;
-    height: 400px;
-    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    margin-bottom: auto;
+    height: auto;
+    width: auto;
     object-fit: contain;
 }
