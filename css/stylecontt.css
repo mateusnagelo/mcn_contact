@@ -1,5 +1,11 @@
-.social-media {
-    margin-top: 30px;
+* {
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+}
+
+.div .social-media i {
+    margin-bottom: 10000px;
 }
 
 .social-media a {
@@ -41,3 +47,7 @@
 /* .navbar .navbar-item {
     color: #190af3;
   } */
+
+.hero-body img {
+    margin-right: 50px;
+}
